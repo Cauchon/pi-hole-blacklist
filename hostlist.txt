@@ -2,5 +2,6 @@ ad.flipboard.com
 analytics.getstream.io
 app-measurement.com
 cdn2.teads.tv
+metrics.icloud.com
 rainbowanalytics-a.wpdigital.net
 sc-analytics.appspot.com
