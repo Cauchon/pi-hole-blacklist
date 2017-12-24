@@ -13,6 +13,7 @@ opencache.com
 rainbowanalytics-a.wpdigital.net
 sc-analytics.appspot.com
 sdad.guru
+www.sdad.guru
 volantix.com
 zergnet.com
 ziffdavis-d.openx.net
