@@ -5,3 +5,4 @@ cdn2.teads.tv
 metrics.icloud.com
 rainbowanalytics-a.wpdigital.net
 sc-analytics.appspot.com
+ziffdavis-d.openx.net
