@@ -2,6 +2,7 @@
 ad.flipboard.com
 analytics.getstream.io
 app-measurement.com
+apple.comscoreresearch.com
 cdn.gotraffic.net
 cdn2.teads.tv
 g.pcmag.com
