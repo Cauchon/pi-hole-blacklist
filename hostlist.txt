@@ -1,5 +1,6 @@
 1681.engine.mobileapptracking.com
 ad.flipboard.com
+adservice.google.com
 analytics.getstream.io
 app-measurement.com
 apple.comscoreresearch.com
