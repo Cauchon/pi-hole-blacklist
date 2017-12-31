@@ -11,6 +11,7 @@ geo.moatads.com
 inscname.net
 insnw.net
 instartlogic.com
+mads.amazon.com
 metric-agent.i10c.net
 metrics.icloud.com
 moatpixel.com
@@ -19,7 +20,9 @@ rainbowanalytics-a.wpdigital.net
 sc-analytics.appspot.com
 sdad.guru
 targeting.washpost.nile.works
+tlx.3lift.com
 usersegment.wpdigital.net
+ut.iadsdk.apple.com
 volantix.com
 www.sdad.guru
 z.moatads.com
