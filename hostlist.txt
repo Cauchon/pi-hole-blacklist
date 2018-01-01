@@ -1,11 +1,15 @@
 1681.engine.mobileapptracking.com
 ad.flipboard.com
+ads.blbrd.co
 adservice.google.com
 analytics.getstream.io
 app-measurement.com
 apple.comscoreresearch.com
 cdn.gotraffic.net
 cdn2.teads.tv
+cf.iadsdk.apple.com
+connect.facebook.com
+d3kkw-6ch3c.ads.tremorhub.com
 g.pcmag.com
 geo.moatads.com
 inscname.net
@@ -17,6 +21,8 @@ metric-agent.i10c.net
 metrics.icloud.com
 moatpixel.com
 opencache.com
+p.ads.roku.com
+prg.smartadserver.com
 rainbowanalytics-a.wpdigital.net
 sc-analytics.appspot.com
 sdad.guru
@@ -26,6 +32,7 @@ usersegment.wpdigital.net
 ut.iadsdk.apple.com
 volantix.com
 www.sdad.guru
+z-na.amazon-adsystem.com
 z.moatads.com
 zergnet.com
 ziffdavis-d.openx.net
