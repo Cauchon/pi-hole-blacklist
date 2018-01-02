@@ -8,6 +8,7 @@ analytics.plaid.com
 analytics.robinhood.com
 app-measurement.com
 apple.comscoreresearch.com
+btlr.sharethrough.com
 c.adyield.co
 cdn-a.yieldlove.com
 cdn.gotraffic.net
@@ -25,14 +26,17 @@ mads.amazon.com
 metric-agent.i10c.net
 metrics.icloud.com
 moatpixel.com
+nydailynews.adperfect.com
 opencache.com
 p.ads.roku.com
 prg.smartadserver.com
 rainbowanalytics-a.wpdigital.net
+s.yieldmo.com
 sc-analytics.appspot.com
 sdad.guru
 segment.do-analytics.net
 targeting.washpost.nile.works
+theblaze2-d.openx.net
 tlx.3lift.com
 tr.iadsdk.apple.com
 usersegment.wpdigital.net
