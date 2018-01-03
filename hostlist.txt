@@ -9,6 +9,7 @@ analytics.robinhood.com
 app-measurement.com
 apple.comscoreresearch.com
 btlr.sharethrough.com
+c.ad-srv.co
 c.adyield.co
 cdn-a.yieldlove.com
 cdn.gotraffic.net
