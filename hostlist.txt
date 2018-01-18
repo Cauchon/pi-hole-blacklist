@@ -2,6 +2,7 @@
 ad.flipboard.com
 ads.blbrd.co
 adservice.google.com
+adservice.google.com
 advertising.oriel.io
 analytics.getstream.io
 analytics.plaid.com
@@ -17,6 +18,7 @@ cdn2.teads.tv
 cf.iadsdk.apple.com
 connect.facebook.com
 d3kkw-6ch3c.ads.tremorhub.com
+dc.ads.linkedin.com
 g.pcmag.com
 geo.moatads.com
 inscname.net
@@ -27,10 +29,12 @@ mads.amazon.com
 metric-agent.i10c.net
 metrics.icloud.com
 moatpixel.com
+mybbc-analytics.files.bbci.co.uk
 nydailynews.adperfect.com
 opencache.com
 p.ads.roku.com
 prg.smartadserver.com
+px.ads.linkedin.com
 rainbowanalytics-a.wpdigital.net
 s.yieldmo.com
 sc-analytics.appspot.com
