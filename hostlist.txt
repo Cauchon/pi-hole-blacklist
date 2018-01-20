@@ -21,6 +21,9 @@ d3kkw-6ch3c.ads.tremorhub.com
 dc.ads.linkedin.com
 g.pcmag.com
 geo.moatads.com
+googleadapis.l.google.com
+googleads.g.doubleclick.net
+gstaticadssl.l.google.com
 inscname.net
 insnw.net
 instartlogic.com
@@ -33,6 +36,7 @@ mybbc-analytics.files.bbci.co.uk
 nydailynews.adperfect.com
 opencache.com
 p.ads.roku.com
+pandapush-iad-prod.inscloudgate.net
 prg.smartadserver.com
 px.ads.linkedin.com
 rainbowanalytics-a.wpdigital.net
@@ -47,6 +51,7 @@ tr.iadsdk.apple.com
 usersegment.wpdigital.net
 ut.iadsdk.apple.com
 volantix.com
+www.googleadservices.com
 www.sdad.guru
 yieldlove-d.openx.net
 z-na.amazon-adsystem.com
