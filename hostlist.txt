@@ -1,11 +1,15 @@
 1681.engine.mobileapptracking.com
 ad.flipboard.com
+ads-resources-legacy.waze.com
+ads-resources.waze.com
 ads.blbrd.co
 ads.exoclick.com
 adservice.google.com
 adservice.google.com
 advertising.oriel.io
+analytics-server.gimbal.com
 analytics.getstream.io
+analytics.natlawreview.com
 analytics.plaid.com
 analytics.robinhood.com
 app-measurement.com
@@ -34,9 +38,12 @@ metric-agent.i10c.net
 metrics.icloud.com
 moatpixel.com
 mybbc-analytics.files.bbci.co.uk
+mybbc-analytics.files.bbci.co.uk
+news.iadsdk.apple.com
 nydailynews.adperfect.com
 opencache.com
 p.ads.roku.com
+p.static.ads-twitter.com
 pandapush-iad-prod.inscloudgate.net
 prg.smartadserver.com
 px.ads.linkedin.com
@@ -45,6 +52,8 @@ s.yieldmo.com
 sc-analytics.appspot.com
 sdad.guru
 segment.do-analytics.net
+segment.do-analytics.net
+sn.moatads.com
 targeting.washpost.nile.works
 theblaze2-d.openx.net
 tlx.3lift.com
