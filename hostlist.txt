@@ -22,6 +22,7 @@ cdn.gotraffic.net
 cdn2.teads.tv
 cf.iadsdk.apple.com
 connect.facebook.com
+csm.sv.us.criteo.net
 d3kkw-6ch3c.ads.tremorhub.com
 dc.ads.linkedin.com
 g.pcmag.com
@@ -29,6 +30,7 @@ geo.moatads.com
 googleadapis.l.google.com
 googleads.g.doubleclick.net
 gstaticadssl.l.google.com
+gum.criteo.com
 inscname.net
 insnw.net
 instartlogic.com
@@ -65,6 +67,7 @@ volantix.com
 www.googleadservices.com
 www.sdad.guru
 yieldlove-d.openx.net
+z-na.amazon-adsystem.com
 z-na.amazon-adsystem.com
 z.moatads.com
 zergnet.com
