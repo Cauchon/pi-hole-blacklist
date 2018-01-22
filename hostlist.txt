@@ -1,6 +1,7 @@
 1681.engine.mobileapptracking.com
 ad.flipboard.com
 ads.blbrd.co
+ads.exoclick.com
 adservice.google.com
 adservice.google.com
 advertising.oriel.io
@@ -48,6 +49,7 @@ targeting.washpost.nile.works
 theblaze2-d.openx.net
 tlx.3lift.com
 tr.iadsdk.apple.com
+usc.adserver.snapads.com
 usersegment.wpdigital.net
 ut.iadsdk.apple.com
 volantix.com
