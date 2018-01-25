@@ -7,7 +7,9 @@ ads.exoclick.com
 adservice.google.com
 adservice.google.com
 advertising.oriel.io
+ampmetrics.techcrunch.com
 analytics-server.gimbal.com
+analytics.freedom.press
 analytics.getstream.io
 analytics.natlawreview.com
 analytics.plaid.com
@@ -25,6 +27,7 @@ connect.facebook.com
 csm.sv.us.criteo.net
 d3kkw-6ch3c.ads.tremorhub.com
 dc.ads.linkedin.com
+dzc-metrics.mzstatic.com
 g.pcmag.com
 geo.moatads.com
 googleadapis.l.google.com
@@ -55,7 +58,9 @@ sc-analytics.appspot.com
 sdad.guru
 segment.do-analytics.net
 segment.do-analytics.net
+smetrics.bestbuy.com
 sn.moatads.com
+sync.teads.tv
 targeting.washpost.nile.works
 theblaze2-d.openx.net
 tlx.3lift.com
@@ -67,7 +72,6 @@ volantix.com
 www.googleadservices.com
 www.sdad.guru
 yieldlove-d.openx.net
-z-na.amazon-adsystem.com
 z-na.amazon-adsystem.com
 z.moatads.com
 zergnet.com
